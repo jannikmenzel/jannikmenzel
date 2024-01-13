@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on defferent projects
 - 📫 How to reach me Instagram @jnk.mnz
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I want to study computer science
 
 <!---
 jannikmenzel/jannikmenzel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
