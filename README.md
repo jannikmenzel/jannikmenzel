@@ -4,16 +4,14 @@
   <img src="https://komarev.com/ghpvc/?username=dein-username&label=Visits&color=DD6387&style=flat" alt="Profile Views" />
 </p>
 
----
+## About Me
+👋 Hi, I’m Jannik – a CS student and hobby developer with an interest in Python, Rust, Web Development, AI, and much more.
 
-## 🚀 Über mich  
-👋 Hi, ich bin **Jannik** – ein CS Student und Hobby Entwickler mit Interesse an **Python, Rust, Web Development, AI und vielem mehr**.
-
-📫 Erreichbar über Instagram: [@jnk.mnz](https://www.instagram.com/jnk.mnz/)
+Reach me via Instagram: [@jnk.mnz](https://www.instagram.com/jnk.mnz/)
 
 ---
 
-## 🛠️ Sprachen & Tools  
+## Languages & Tools 
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank"> 
     <img src="https://github.com/xandemon/developer-icons/blob/main/icons/python.svg" alt="Python" width="40" height="40"/> 
@@ -54,7 +52,7 @@
 
 ---
 
-## 📊 GitHub-Statistiken  
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jannikmenzel&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Top Sprachen" />
 </p>
@@ -64,7 +62,5 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jannikmenzel&theme=dracula&mode=weekly&fire=EB5454" alt="Commit Streak" />
 </p>
-
----
 
 ![Banner-Bottom](https://github.com/user-attachments/assets/01c94a18-bf4e-4702-a038-0e3108fc4c6c)
