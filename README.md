@@ -4,63 +4,21 @@
   <img src="https://komarev.com/ghpvc/?username=dein-username&label=Visits&color=DD6387&style=flat" alt="Profile Views" />
 </p>
 
-## About Me
-👋 Hi, I’m Jannik – a CS student and hobby developer with an interest in Python, Rust, Web Development, AI, and much more.
+# About Me
+👋 Hi, I’m Jannik – a CS student and freelance developer with an interest in Python, Rust, Web Development, AI, and much more.
 
-Reach me via Instagram: [@jnk.mnz](https://www.instagram.com/jnk.mnz/)
+## Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jnk.mnz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jannik-menzel) 
 
----
+# Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-## Languages & Tools 
+# GitHub Stats
+
 <p align="center">
-  <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank"> 
-    <img src="https://github.com/xandemon/developer-icons/blob/main/icons/python.svg" alt="Python" width="40" height="40"/> 
-  </a>
-  <span>&nbsp;&nbsp;</span>
-  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"> 
-    <img src="https://github.com/xandemon/developer-icons/blob/main/icons/html5.svg" alt="HTML" width="40" height="40"/> 
-  </a>
-  <span>&nbsp;&nbsp;</span>
-  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> 
-    <img src="https://github.com/xandemon/developer-icons/blob/main/icons/css3.svg" alt="CSS" width="40" height="40"/> 
-  </a>
-  <span>&nbsp;&nbsp;</span>
-  <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"> 
-    <img src="https://github.com/xandemon/developer-icons/blob/main/icons/javascript.svg" alt="JavaScript" width="40" height="40"/> 
-  </a>
-  <span>&nbsp;&nbsp;</span>
-  <a href="https://en.wikipedia.org/wiki/Rust_(programming_language)" target="_blank"> 
-    <img src="https://github.com/xandemon/developer-icons/blob/main/icons/rust-light.svg" alt="Rust" width="40" height="40"/> 
-  </a>
-  <span>&nbsp;&nbsp;</span>
-  <a href="https://en.wikipedia.org/wiki/Dart_(programming_language)" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/> 
-  </a>
-  <span>&nbsp;&nbsp;</span>
-  <a href="https://en.wikipedia.org/wiki/Flutter_(software)" target="_blank"> 
-    <img src="https://github.com/xandemon/developer-icons/blob/main/icons/flutter.svg" alt="Flutter" width="40" height="40"/> 
-  </a>
-  <span>&nbsp;&nbsp;</span>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> 
-    <img src="https://github.com/xandemon/developer-icons/blob/main/icons/c.svg" alt="C" width="40" height="40"/> 
-  </a>
-  <span>&nbsp;&nbsp;</span>
-  <a href="https://en.wikipedia.org/wiki/Git" target="_blank"> 
-    <img src="https://github.com/xandemon/developer-icons/blob/main/icons/git.svg" alt="Git" width="40" height="40"/> 
-  </a>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=jannikmenzel&theme=dark&hide_border=false" />
 </p>
 
----
-
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jannikmenzel&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Top Sprachen" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jannikmenzel&show_icons=true&theme=dracula&cache_seconds=1800&locale=en" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jannikmenzel&theme=dracula&mode=weekly&fire=EB5454" alt="Commit Streak" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![Banner-Bottom](https://github.com/user-attachments/assets/01c94a18-bf4e-4702-a038-0e3108fc4c6c)
