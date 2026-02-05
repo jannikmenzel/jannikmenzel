@@ -1,7 +1,7 @@
 ![Banner-Top](https://github.com/user-attachments/assets/c6125636-445f-454c-86a5-de527f5afc0c)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jannikmenzel&label=Profile%20Views&color=DD6387&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=dein-username&label=Visits&color=DD6387&style=flat" alt="Profile Views" />
 </p>
 
 # 👋 Hi, I'm Jannik Menzel
