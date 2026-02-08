@@ -52,6 +52,10 @@ I'm a computer science student passionate about building practical, efficient so
 
 💼 **Available for freelance work** – Feel free to reach out via LinkedIn or my Homepage!
 
+## Support me
+
+<a href="https://www.buymeacoffee.com/jannikmenzel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
 ## 📊 GitHub Stats
 
 <p align="center">
