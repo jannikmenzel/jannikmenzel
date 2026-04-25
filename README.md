@@ -32,6 +32,8 @@ I'm a computer science student passionate about building practical, efficient so
 ### Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Astro](https://img.shields.io/badge/astro-%23BC52EE.svg?style=for-the-badge&logo=astro&logoColor=white)
+![Hugo](https://img.shields.io/badge/hugo-%23FF4088.svg?style=for-the-badge&logo=hugo&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -58,8 +60,6 @@ I'm a computer science student passionate about building practical, efficient so
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=jannikmenzel&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-</p>
+![jannikmenzel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jannikmenzel&theme=vue-dark&hide_border=true)
 
 ![Banner-Bottom](https://github.com/user-attachments/assets/01c94a18-bf4e-4702-a038-0e3108fc4c6c)
